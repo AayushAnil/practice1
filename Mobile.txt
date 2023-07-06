@@ -1,0 +1,16 @@
+Verify the mobile number text field by entering the valid 10 digit mobile number ie."9878775858".
+Verify the mobile number field by entering the Less than 10 digit mobile number ie."898585858".
+Verify the mobile number field by entering the more than 10 digit mobile number ie."58585858585".
+Verify the mobile number field by entering the blank space between the number ie."8585 85858"
+Verify the mobile number text field by copy and pasting mobile number .it must be copy and paste in text box.
+Verify the mobile number field by entering the 10 "Zero" in text box ie."0000000000"
+Verify the mobile number field by entering only 10 blank space .
+Verify the mobile number  field without entering any value.
+Verify the mobile number field by entering the special character
+Verify the mobile number  field by entering the character value.
+Verify the mobile number field by entering the "0" at initial.
+Other Test Cases For Mobile Number Text Box .(As per SRS)
+Verify the asterisk symbol for mobile number if field is mandatory field 
+Verify the alert message when user click on save without entering the value in mobile number text box while it is mandatory field.
+Verify the alert message when user enter wrong data in mobile number field.(Eg. Less mobile Number , mobile number with character and special symbol ,Blank field, etc.)
+Verify the place holder for the mobile number text box .

@@ -1,0 +1,17 @@
+Pan Number Format : AAAPZ1234C
+
+Valid Test Cases 
+Verify the pan number field by entering the ten characters long valid pan number .
+Verify first five characters should be any upper case alphabets.
+Verify next four-characters should be any number from 0 to 9.
+Verify that last(tenth) character should be any upper case alphabet.
+Check that Pan number should not contain any white space.
+Check that alert message when user enter invalid Pan card number .
+Check that all the alphabet should be in Upper case only.
+Invalid Test Cases
+Verify the pan card field by entering the pan number which is less than 10 digit .
+verify the field by entering the pan number which is greater than 10 digit .
+verify the field by entering the pan number first five char in lower case.
+Verify the field by entering the pan number which white space .
+Verify the 10 digit by entering the number .
+Verify the field by entering the pan number which contain all the alphabet in lower case.
